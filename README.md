@@ -1,2 +1,1 @@
-# newprofilemanjunath
-new profile
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalburgimanjunath)](https://github.com/kalburgimanjunath/github-readme-stats)
